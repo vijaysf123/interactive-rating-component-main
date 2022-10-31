@@ -110,9 +110,10 @@ input.submit:hover {
     color: var(--orange);
 }
 
+
 .feedback_wrapper{
     text-align: center;
-    padding-block: 4.5rem;
+    padding-block: 46px;
     display: none;
 }
 
